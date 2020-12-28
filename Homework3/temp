@@ -1,0 +1,1 @@
+$$ Sim(u, v) = \frac{\sum_{i \in { I_u \cap I_v}} (R_{u,i} * R_{v,i})} {\sqrt{\sum_{i \in {I_u \cap I_v}}(R_{u,i})^{2} * (R_{v,i})}^{2}}$$
